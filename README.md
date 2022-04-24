@@ -32,3 +32,7 @@ CommonLogCollectSystem V2.1
 
 本系统耗费了我大量的精力，如果有帮助请友情打赏(详见其它-》帮助按钮)，谢谢！
 
+Author
+foibble@163.com
+
+
