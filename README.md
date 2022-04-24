@@ -1,5 +1,6 @@
 # CommonLogCollectSystem
 A set of Client/Server Communication Tools to send data from client to server .Then data will automatic classify on server side tab by tab .
+It can be used to collect log data when doing Programme Trading . 
 It includes Server Winform application, and client application.
 It can communication via socket.io or wcf.
 
@@ -8,7 +9,11 @@ Server side was built by .net c#.
 Client side can be coded by Java ,Python, Node.js.
 CommonLogCollectSystem V2.1
 
+通用日志收集系统
+
+适用场景 程序化交易中监控收集策略运行日志
 使用说明
+
  
  
 本系统经生产环境测试，连续使用1个月以上，24小时不间断接收来自多个终端的数据。接收到数据后，根据输入时输入的TableName="Test,TestTab1";这个TableName格式不能修改,逗号前面代表上图的大TAB，逗号后面是子TAB名称。会根据内容自动创建TAB及表格窗口。
